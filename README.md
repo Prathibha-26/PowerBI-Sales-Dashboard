@@ -73,8 +73,6 @@ PowerBI-Sales-Dashboard/
 
 ## Dashboard Preview
 
-Add a screenshot of your dashboard here after uploading:
-
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Future Improvements
